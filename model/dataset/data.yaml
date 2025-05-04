@@ -1,0 +1,7 @@
+names:
+- Price
+- Product
+nc: 2
+path: C:\Users\minhk\Downloads\IoT\model\dataset
+train: ./images
+val: ./images
